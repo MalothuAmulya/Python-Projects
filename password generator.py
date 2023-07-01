@@ -24,3 +24,4 @@ for char in password_list:
     password += char
 print("Your customised password is :")
 print(password)
+print('Thankyou')
